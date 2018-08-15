@@ -2,8 +2,7 @@
 using namespace std;
 int main()
 {
-	cout << "version control" << endl;
-	system("pause");
+	cout << "Hello,Github" << endl;
 	return 0;
 
 }
